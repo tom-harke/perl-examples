@@ -1,0 +1,11 @@
+== Modifications ==
+Curry.{pm.t}
+   - generalize to an n-ary version that nests functions n deep
+
+
+== Additions ==
+
+ - Y combinators & rewriting recursive subs as functors(?)
+ - A generic memoizer (if possible)
+   - do specific eg first
+   - may need functors & Y
